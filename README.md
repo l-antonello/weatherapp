@@ -1,6 +1,6 @@
 # weatherapp
 
-##Usage
+## Usage
 
 By searching in a location, this site lets the user find the 5 day weather, humity, and wind speed. 
 an example can be seen here
