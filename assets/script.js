@@ -11,7 +11,7 @@ searchForm.addEventListener('submit', async (event) => {
 });
 
 async function getWeatherData(location) {
-    var response = await fetch(`http://api.openweathermap.org/geo/1.0/direct?q=${location}&limit=5&appid=${apiKey}`);
+    var response = await fetch(`https://api.openweathermap.org/geo/1.0/direct?q=${location}&limit=5&appid=${apiKey}`);
     var data = await response.json();
     return data;
 }
