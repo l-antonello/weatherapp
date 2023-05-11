@@ -1,10 +1,12 @@
 # weatherapp
-
+[Link to weather app](https://l-antonello.github.io/weatherapp/)
 ## Usage
 
-By searching in a location, this site lets the user find the 5 day weather, humity, and wind speed. 
+By searching a location, this site lets the user find the 5 day weather, humity, and wind speed along with a weather icon.
+The search history is saved and can be reopened.
 an example can be seen here
-![image](https://user-images.githubusercontent.com/122548483/234157290-e57e1c26-f228-481f-83a6-461d623b0efa.png)
+![weather](https://github.com/l-antonello/weatherapp/assets/122548483/4c536d5e-7cf0-4f24-845c-3cb615f572c6)
+
 
 
 ## License
